@@ -2,6 +2,10 @@
 
 A travers ce projet, je renforce mes compétences en analyse exploratoire de données avec **python**, en développement de modèles de machine learning pour résoudre des problèmes métier concrets, en construction de pipeline de machine learning, en tracking des performances de modèles ML avec l'outil **Mlflow** et en déploiement de modèle de machine learning via une interface graphique web avec **streamlit**.
 
+
+![Capture d’écran (29)](https://github.com/Djamel-yod/Prediction-Desabonnement-Clients/assets/60408184/ac4e96ce-5007-4f09-939c-57c311b5f2d7)
+
+
 ## Contexte: 
 Le churn correspond au désabonnement d'un client à un service. Les entreprises adoptent souvent une approche classique pour contrer cette perte de clients : les remplacer ou les reconquérir. Cette stratégie implique des coûts importants et du temps : e-mailing, publicité, cadeaux, primes, etc. L'anticipation par l'approche prédictive permet d'éviter ces dépenses et de prévenir la perte de clients. Pourtant, Grace aux techniques d'apprentissage automatique, il est possible de développer des algorithmes possédants une grande précision à identifier les clients susceptibles de se désabonner d'un service et ainsi d'anticiper leur désabonnement en menant des actions marketing dans le but de maintenir les maintenir.
 
