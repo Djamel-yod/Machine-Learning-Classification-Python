@@ -24,7 +24,7 @@ model = pickle.load(open("model.pkl", "rb"))
 # Titre de l'application
 st.title("Prédiction de la résiliation de contrat des abonnées d'une société de télécommunication")
 st.subheader('Auteur: Ismael YODA')
-st.write("Cette application est destinée a prédire si un client d'une société de télécommunication est susceptible de résilier son contract ou non en utilisant un algorithme de Machine Learning qui offre une grande présicion. Elle prend en entrées certaines données sur l'abonné(e) et renvoie en sortie la classe de l'abonné(e)(S'il est susceptible de résilier ou pas son contrat)").
+st.write("Cette application est destinée a prédire si un client d'une société de télécommunication est susceptible de résilier son contract ou non en utilisant un algorithme de Machine Learning qui offre une grande présicion. Elle prend en entrées certaines données sur l'abonné(e) et renvoie en sortie la classe de l'abonné(e)(S'il est susceptible de résilier ou pas son contrat).")
 st.write("Entrez les informations du client ou de la cliente pour prédire s'il(elle) a une grande probabilité de résilier son contrat")
 
 col1, col2 = st.columns(2)
