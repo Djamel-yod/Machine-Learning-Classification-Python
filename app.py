@@ -1,4 +1,5 @@
 import streamlit as st
+import numpy as np
 import pandas as pd
 import pickle
 
@@ -75,10 +76,10 @@ with col2:
    PaperlessBilling= st.selectbox("A t-il(elle) choisi la facturation dématérialisée ?", options=["Oui", "Non"])
    PaymentMethod=st.selectbox("Quel est la méthode de payement utilisée ?: ", options=["Chèque électronique", "Chèque postal", "Retrait bancaire", "Carte de crédit"])
    MonthlyCharges=st.number_input("Quel est le montant mensuel en dollars $ de ses charges ?",step=1.,format="%.2f")
-   TotalCharges=st.number_input("Quel est le montant de ses charges totales en dollars$ depuis le début de son abonnement ?",step=1.,format="%.2f")
+   TotalCharges=np.sqrt(st.number_input("Quel est le montant de ses charges totales en dollars$ depuis le début de son abonnement ?",step=1.,format="%.2f"))
    
 # Convertion des variables catégorielles en entrées compris par le modèle
-gender = "Yes" if gender == "Oui" else "No"
+gender = "Male" if gender == "Homme" else "Female"
 SeniorCitizen = "Yes" if SeniorCitizen == "Oui" else "No"
 Partner = "Yes" if Partner == "Oui" else "No"
 Dependents = "Yes" if Dependents == "Oui" else "No"
