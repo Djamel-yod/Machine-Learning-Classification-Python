@@ -4,7 +4,7 @@
 <img width="1000" alt="Capture_Churn" src="https://github.com/Djamel-yod/Prediction-Desabonnement-Clients/assets/60408184/7fa9156d-ef50-47e5-92cc-983140590cf9">
 
 
-A travers ce projet, je renforce mes compétences en analyse exploratoire de données avec **python**, en développement de modèles de machine learning pour résoudre des problèmes métiers concrets, en construction de pipelines de machine learning, en tracking des performances de modèles ML avec l'outil **Mlflow** et en mise en production de modèles de machine learning via une interface graphique web avec **streamlit**.
+Dans le cadre de ce projet, j'ai utilisé **Python**, **Mlflow** et **Streamlit** pour construire un pipeline de machine learning complet, depuis l'exploration des données jusqu'à la mise en production et le suivi des performances.
 
 
 ## Contexte: 
