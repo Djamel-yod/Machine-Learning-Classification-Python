@@ -1,6 +1,6 @@
 # Prédiction du désabonnement des clients d'une société de télécommunication
 
-**[Cliquez ici pour prédire si un client a une forte probailité de se désabonner](https://prediction-desabonnement-clients-fcmdpzd8cappjh9hteynv3t.streamlit.app/)**
+**[Cliquez ici pour prédire si un client a une forte probabilité de se désabonner](https://prediction-desabonnement-clients-fcmdpzd8cappjh9hteynv3t.streamlit.app/)**
 <img width="1000" alt="Capture_Churn" src="https://github.com/Djamel-yod/Prediction-Desabonnement-Clients/assets/60408184/7fa9156d-ef50-47e5-92cc-983140590cf9">
 
 
