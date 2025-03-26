@@ -26,7 +26,7 @@ Dans ce projet, j'ai développé un algorithme de Machine Learning (Classificati
 J'ai effectué une analyse statistique approfondie de ces données à travers une analyse exploratoire incluant des statistiques univariées et bivariées. J'ai ensuite construit des pipelines de Machine Learning afin d'automatiser le préprocessing et l'estimation des modèles. J’ai estimé sur les données quatre algorithmes de classification que sont La **Régression Logistique**, Le **Support Vector Machine (SVM)**, le **Random Forest Classifier** et le **XGBoost Classifier**. Ces quatre algorithmes sont comparés et le plus performant est choisi. Pour le tracking des performances de mes modèles, j'utilise **MLflow**. Le meilleur modèle est déployé sur une application web streamlit.
 
 ## Résultats
-Les visualisations et statistiques descriptives sont disponibles à travers le fichier notebook.ipynb et l'application web pour effectuer des simulations de prévisions est disponible à travers le 
+Les visualisations et les statistiques descriptives sont disponibles à travers le fichier notebook.ipynb et l'application web pour effectuer des prévisions est disponible à travers le 
 **[lien](https://prediction-desabonnement-clients-fcmdpzd8cappjh9hteynv3t.streamlit.app/)**
 
 
